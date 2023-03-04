@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UniClone</string>
+    <string name="nx_wave">
+        " NX Wave. The next-\n"
+        "gen credit card for\n"
+        "those who love\n"
+        "rewards."
+    </string>
+    <string name="cashback">
+        " 1% Cashback + 5x Rewards + Zero Forex Markup"
+    </string>
+    <string name="cashback_details">
+        " Earn 1% assured cashback\n"
+        "on your spends. Get 5X\n"
+        "more value than cashback\n"
+        "at the Uni Store. Enjoy\n"
+        "round the clock Whatsapp\n"
+        "support. And it's\n"
+        "lifetime free; no joining\n"
+        "fee, no annual charges"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
